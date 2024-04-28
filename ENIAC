@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <title>Computer Science History - CS100</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row"> </div>
+        <div class="row">
+            <div class="col-4"><img src="https://www.aps.org/publications/apsnews/202212/images/ENIAC-programmers-National-Archives.jpg" alt="ENIAC" Width="400" height="400"/><br><strong>ENIAC</strong></div>
+            <div class="col"><h2  class="display-2">Machines</h2>
+                <p><strong>Dates: </strong>1945</p>
+                <h3 class="display-6">Why Significant</h3>
+                <p class="lead">Was the first programmable, general purpose, electronic computer, paving the way for the modern computer </p>
+                <h3 class="display-6">History</h3>
+                <p>ENIAC was created with the intent to handle all the complex calculations that go into pinpointing where a shells trajectory will take it in flight, for use during WW2, but throughout its lifespan also calculated everything from hydrogen bomb designs to weather predictions. It was the first of its kind to put together all the features of the eras computers, and was operated by several women "programmers" during its lifespan. 
+                </p>
+            </p> 
+            </div>
+        </div>  
+    </div>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
